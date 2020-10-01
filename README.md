@@ -1,6 +1,6 @@
 # GitTutorialDemo
 This is a repository for explaining git on CodeWithHarry youtube channel.
-he explain very well.
-he is the best teacher for aspiring student who want to become coder ,devloper.
+He explained very well.
+He is the best teacher for aspiring student who wants to become coder ,devloper.
 
 
